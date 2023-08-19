@@ -85,7 +85,7 @@ ol {
   position: relative;
   max-width: 394px;
   height: 298px;
-  overflow: auto;
+  overflow: hidden auto;
   margin-top: 24px;
 }
 
